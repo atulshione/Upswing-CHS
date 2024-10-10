@@ -1,4 +1,3 @@
-# test_data.py
 from faker import Faker
 import random
 from datetime import datetime

@@ -2,9 +2,8 @@
 
 Installation
 1.Clone this repository:
-git clone 
+git clone https://github.com/atulshione/Upswing-CHS.git
 2.Navigate into the project directory:
-cd 
 3.Install required dependencies:
 pip install -r requirements.txt
 
